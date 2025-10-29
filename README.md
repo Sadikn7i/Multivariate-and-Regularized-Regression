@@ -1,4 +1,4 @@
-# paste.txt Data and Code Repository
+# Understanding Sectoral Evolution in Djibouti: A Multivariate and Regularized Regression Approach to Structural Transformation
 
 This repository centers around a comprehensive file blending sample economic data, Python code for regression and plotting, and workflow notes. It demonstrates modern approaches for data analysis, visualization, and econometrics using pandas, scikit-learn, statsmodels, and matplotlib.
 
